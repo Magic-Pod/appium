@@ -1,6 +1,6 @@
 {
-  "name": "appium",
-  "description": "Automation for Apps.",
+  "name": "@magic-pod/appium",
+  "description": "Appium package built for Magic Pod",
   "tags": [
     "automation",
     "javascript",
@@ -11,15 +11,15 @@
     "firefoxos",
     "testing"
   ],
-  "version": "1.9.2-beta.2",
-  "author": "https://github.com/appium",
+  "version": "1.9.2-beta.2.1",
+  "author": "https://github.com/Magic-Pod",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/appium/appium.git"
+    "url": "https://github.com/Magic-Pod/appium.git"
   },
   "bugs": {
-    "url": "https://github.com/appium/appium/issues"
+    "url": "https://github.com/Magic-Pod/appium/issues"
   },
   "engines": {
     "node": ">=8",
