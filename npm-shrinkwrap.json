@@ -1,6 +1,6 @@
 {
   "name": "@magic-pod/appium",
-  "version": "1.9.2-beta2.15",
+  "version": "1.9.2-beta2.16",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
