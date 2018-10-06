@@ -11,7 +11,7 @@
     "firefoxos",
     "testing"
   ],
-  "version": "1.9.2-beta2.10",
+  "version": "1.9.2-beta2.12",
   "author": "https://github.com/Magic-Pod",
   "license": "Apache-2.0",
   "repository": {
@@ -36,7 +36,8 @@
   "files": [
     "bin",
     "lib",
-    "build/lib"
+    "build/lib",
+    "npm-shrinkwrap.json"
   ],
   "dependencies": {
     "@babel/runtime": "^7.0.0",
