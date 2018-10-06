@@ -1,6 +1,6 @@
 {
   "name": "@magic-pod/appium",
-  "description": "Appium package built for Magic Pod",
+  "description": "Unofficial Appium package built for Magic Pod",
   "tags": [
     "automation",
     "javascript",
@@ -11,7 +11,7 @@
     "firefoxos",
     "testing"
   ],
-  "version": "1.9.2-beta2.8",
+  "version": "1.9.2-beta2.10",
   "author": "https://github.com/Magic-Pod",
   "license": "Apache-2.0",
   "repository": {
